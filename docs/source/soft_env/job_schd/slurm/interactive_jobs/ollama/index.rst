@@ -26,6 +26,6 @@ These notebooks demonstrate how to integrate and automate Ollama operations on I
    :maxdepth: 1
 
    ollama_interactive
-   ollama-sif-api-ibex
-   ollama-sif-py-ibex
-   ollama-sif-batch-eval-ibex
+   ../../../../../_collections/data_science_onboarding/notebooks/inference/ollama-interactive-inference/ollama-interactive-inference/ollama-sif-api-ibex
+   ../../../../../_collections/data_science_onboarding/notebooks/inference/ollama-interactive-inference/ollama-interactive-inference/ollama-sif-py-ibex
+   ../../../../../_collections/data_science_onboarding/notebooks/inference/ollama-interactive-inference/ollama-interactive-inference/ollama-sif-batch-eval-ibex

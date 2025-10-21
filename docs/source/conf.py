@@ -90,6 +90,10 @@ collections = {
    'visualization_vignettes': {
       'driver': 'git',
       'source': 'https://gitlab.kitware.com/jameskress/KAUST_Visualization_Vignettes.git'
+   },
+   'data_science_onboarding':{
+       'driver': 'git',
+       'source': 'https://github.com/kaust-rccl/Data-science-onboarding.git',
    }
 }
 
